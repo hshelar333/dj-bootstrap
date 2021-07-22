@@ -1,0 +1,90 @@
+
+/* Nav bar */
+
+.navbar{
+    color: white;
+    /* padding: 10px 10px; */
+}
+
+.navbar-brand{
+    font-size: 2.5rem;
+}
+
+.nav-item{
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: white;
+}
+
+/* Title */
+
+#title{
+    color: white;
+    background-color: black;
+}
+
+.title-heading{
+    text-align: center;
+    margin-top: 15%;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.background-img{
+    background-image: url(/images/dj.jpg);
+    padding-bottom: 50%;
+    background-size: cover;
+    background-repeat: no-repeat no-repeat;
+}
+
+/* Details */
+
+#details{
+    padding: 7% 7%;
+    background-color: black;
+    color: white;
+}
+
+.icon{
+    float: left;
+    margin-right: 30px;
+    color: #ff726f;
+}
+
+/* Form */
+
+.form-btn{
+    background-color: black;
+    border-style: solid;
+    border-color: #ff726f;
+    border-radius: 0;
+    margin-top: 20px;
+}
+
+/* Google-map */
+
+#google-map{
+    background-color: black;
+    padding-bottom: 50px;
+}
+
+/* Footer */
+
+#footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 7% 15%;
+}
+
+.footer-social{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.footer-logo{
+    margin-top: 0;
+    padding-top: 0;
+}
+
